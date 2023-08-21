@@ -1,3 +1,4 @@
+import "reflect-metadata";
 import { TomasLogger } from "@tomasjs/logging";
 
 async function main() {
